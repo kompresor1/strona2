@@ -1,0 +1,12 @@
+body {
+    background-image: url("img/cool-background.png");
+    background-size: 240%;
+    
+}
+.naglowki {  
+    text-align: center;
+}
+.div1 {
+    display: flex;
+    font-size: xx-large;     
+}
